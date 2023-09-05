@@ -1,0 +1,2 @@
+font awesome(library)= used for icons 
+cdn(content delivery network) js= used for connect font awesome library
